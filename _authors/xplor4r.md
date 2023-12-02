@@ -1,17 +1,17 @@
 ---
-name: Sujay Kundu
+name: John Doe II
 username: xplor4r
 bio: "Full Stack Web Developer, based in Bangalore, India"
-site: https://sujaykundu.com
+site: ""
 avatar: xplor4r.png
-email: mail@sujaykundu.com
+email: johndoe@duck.com
 social:
     - title: "github"
-      url: "https://github.com/sujaykundu777"
+      url: "https://github.com/altcoder94"
     - title: "linkedin"
-      url: "https://www.linkedin.com/in/sujaykundu"
+      url: "https://www.linkedin.com/in/altcoder94"
     - title: "youtube"
-      url: "https://www.youtube.com/channel/UCSfLBFFfNU9r6ihfei6VeJw"
+      url: ""
     - title: "facebook"
-      url: "https://www.facebook.com/sujay.kundu2"
+      url: "https://www.facebook.com"
 ---

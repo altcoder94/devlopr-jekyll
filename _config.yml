@@ -27,9 +27,9 @@ urls:
 author_logo: profile.png
 author: John Doe
 author_bio: Hi, my name is John Doe. I built this site using devlopr-jekyll :D
-author_email: "mail@sujaykundu.com"
+author_email: "johndoe@duck.com"
 author_location: India
-author_website_url: "https://sujaykundu.com"
+author_website_url: "https://www.google.com"
 typewrite-text: devlopr is a jekyll framework built for developers. You can edit this in _config.yml file
 hero_cover_img: sample_cover.jpg # replace this for changing homepage cover (eg. try cover.jpeg). Image should be in /assets/img
 
@@ -51,10 +51,10 @@ author_work_experiences:
 # Education
 author_education_details:
               - college_logo: mit.png
-                college_name: MIT
-                college_url: https://mit.org
-                college_degree: CS Engineer
-                description: Bachelor of Technology
+                college_name: "###"
+                college_url: "###"
+                college_degree: "###"
+                description: "###"
                 visibility: true
 
 # Projects
@@ -72,7 +72,7 @@ author_project_details:
 
 # social links
 twitter_username: johndoe
-github_username:  sujaykundu777
+github_username:  altcoder94
 facebook_username: johndoe
 linkedin_username: johndoe
 behance_username: johndoe

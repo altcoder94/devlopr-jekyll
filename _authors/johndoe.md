@@ -11,7 +11,7 @@ social:
     - title: "linkedin"
       url: "https://www.linkedin.com/in/johndoe"
     - title: "youtube"
-      url: "https://www.youtube.com/channel/UCSfLBFFfNU9r6ihfei6VeJw"
+      url: "https://www.youtube.com"
     - title: "facebook"
       url: "https://www.facebook.com/johndoe"
     - title: "twitter"
